@@ -14,11 +14,11 @@ echo -e "\e[36m
        ▀                        ▀████▀▀                                 ▀████▀▀
 \e[0m\n"
 
-DOCKER_IMG_NAME="whyour/qinglong"
+DOCKER_IMG_NAME="3382438/qinglong"
 QL_PATH=""
 SHELL_FOLDER=$(pwd)
 CONTAINER_NAME=""
-TAG="latest"
+TAG="2.11.3"
 NETWORK="bridge"
 QL_PORT=5700
 
